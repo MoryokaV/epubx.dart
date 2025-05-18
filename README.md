@@ -1,6 +1,6 @@
 # epubx
 
-My pachakge is also a fork of [epubx](https://github.com/ScerIO/epubx.dart).
+My pachakge is also a fork of [epubx](https://github.com/ScerIO/epubx.dart). I updated the dependencies to the latest versions available.
 This package is [dart-epub](https://github.com/orthros/dart-epub) fork.
 
 Epub Reader and Writer for Dart inspired by [this fantastic C# Epub Reader](https://github.com/versfx/EpubReader)
