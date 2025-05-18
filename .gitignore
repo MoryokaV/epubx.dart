@@ -29,3 +29,7 @@ pubspec.lock
 
 #Ignore VSCode Directory
 .vscode/
+
+.dart_tool/
+
+.DS_Store*

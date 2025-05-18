@@ -1,20 +1,11 @@
 # epubx
 
-It package is [dart-epub](https://github.com/orthros/dart-epub) fork
-
-[Flutter UI implementation](https://pub.dev/packages/epub_view)
+My pachakge is also a fork of [epubx](https://github.com/ScerIO/epubx.dart).
+This package is [dart-epub](https://github.com/orthros/dart-epub) fork.
 
 Epub Reader and Writer for Dart inspired by [this fantastic C# Epub Reader](https://github.com/versfx/EpubReader)
 
 This does not rely on the ```dart:io``` package in any way, so it is avilable for both desktop and web-based implementations
-
-[![pub package](https://img.shields.io/pub/v/epubx.svg)](https://pub.dartlang.org/packages/epubx)
-## Installing
-Add the package to the ```dependencies``` section of your pubspec.yaml
-```
-dependencies:
-  epubx: any
-```
 
 ## Example
 ```dart
